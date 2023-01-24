@@ -1,0 +1,19 @@
+.mess_info{
+    background: green;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    padding: 5px;
+    margin-left: 35%;
+    margin-right: 35%;
+}
+
+.mess_erreur{
+    background: red;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    padding: 5px;
+    margin-left: 35%;
+    margin-right: 35%;
+}
